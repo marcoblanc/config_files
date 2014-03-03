@@ -1,0 +1,18 @@
+alias temp='sensors -A'
+alias chrome='google-chrome --proxy-pac-url=http://lcm.mi.infn.it/proxy.pac'
+alias scarica='mv /home/marco/Downloads/*.torrent /home/marco/torrents/.torrent_files && rtorrent'
+#alias per sudo
+#alias reboot='sudo /sbin/reboot'
+#alias halt='sudo /sbin/halt'
+#alias shutdown='sudo /sbin/shutdown'
+#alias poweroff='sudo /sbin/poweroff'
+#alias governor='sudo /usr/local/bin/governor.sh'
+#alias nm-connection-editor='sudo /usr/bin/nm-connection-editor'
+#alias dhclient='sudo /sbin/dhclient'
+#alias iwconfig='sudo /sbin/iwconfig'
+#alias ifconfig='sudo /sbin/ifconfig'
+#alias iwlist='sudo /sbin/iwlist'
+#alias ifup='sudo /sbin/ifup'
+#alias ifdown='sudo /sbin/ifdown'
+#alias adb='sudo /home/marco/code/android-sdk-linux/platform-tools/adb'
+

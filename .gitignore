@@ -1,0 +1,10 @@
+*
+!.bashrc
+!.zshrc
+!.zshenv
+!.screenrc
+!.vimrc
+!.colors
+!.alias*
+!.gitignore
+!.gitconfig

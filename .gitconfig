@@ -1,0 +1,12 @@
+[user]
+	name = Marco Bianchi
+	email = marcobianchi1987@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[color]
+	branch = auto
+	diff = auto
+[credential]
+	helper = cache
